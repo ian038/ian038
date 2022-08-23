@@ -3,7 +3,9 @@
 
 - 🔭 Working as a fullstack engineer with Strike Acceptance
 
-- 🌱 I like to play and learn different frameworks/libraries, currently learning **Remix Run** right now
+- 🌱 Always playing, always learning, always growing. Different tools, different domains, different languages.
+
+- ⚡ In my free time, I practice striking martial arts such as Muay Thai/Boxing 🥊 as well moving my body and moving weights with Gymnastics and Weightlifting.
 
 - 📫 Reach me @ **ianphua3@gmail.com**
 
