@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A creator, engineer and builder</h3>
 
-- 🛠️ Currently working as a fullstack engineer with Strike Acceptance
+- 🔭 Working as a fullstack engineer with Strike Acceptance
 
 - 🌱 I like to play and learn different frameworks/libraries, currently learning **Remix Run** right now
 
