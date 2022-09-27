@@ -5,7 +5,7 @@
 
 - 🌱 Always playing, always learning, always growing. Different tools, different domains, different languages.
 
-- ⚡ In my free time, I practice striking martial arts such as Muay Thai/Boxing 🥊 as well as moving my body and moving weights with Gymnastics and Weightlifting.
+- ⚡ In my free time, I practice striking martial arts such as Muay Thai/Boxing 🥊 as well as moving my body and weights with Gymnastics and Weightlifting.
 
 - 📫 Reach me @ **ianphua3@gmail.com**
 
