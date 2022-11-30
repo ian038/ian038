@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian.</h1>
 <h3 align="center">Technology agnostic engineer unlocking the power of his mind 🧠💭. I believe we can do anything we set our mind on 🚀.</h3>
 
-- 🔭 Currently a fullstack engineer with Strike Acceptance
-
 - 🌱 Always playing, always learning, always growing. Different tools, different domains, different languages.
 
 - ⚡ In my free time, I practice striking martial arts such as Muay Thai/Boxing 🥊 as well as moving my body and weights with Gymnastics and Weightlifting.
